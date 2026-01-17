@@ -1,0 +1,7 @@
+user_id,department,month,transactions,amount,status
+101,Finance,Jan,120,450000,Completed
+102,HR,Jan,80,120000,Completed
+103,IT,Jan,150,600000,Completed
+104,Finance,Feb,95,380000,Pending
+105,IT,Feb,,500000,Completed
+106,HR,Feb,70,110000,Completed
